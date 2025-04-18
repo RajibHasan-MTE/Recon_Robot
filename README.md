@@ -34,4 +34,4 @@ Robotics Engineer | Embedded Systems Developer
 
 ---
 
-Feel free to fork, improve, or contribute! Let’s make robotics education more accessible** 🚀
+Feel free to fork, improve, or contribute! Let’s make robotics education more accessible 🚀
